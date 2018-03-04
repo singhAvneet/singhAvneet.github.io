@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "hell1.png",
+	"frame": {"x":1,"y":1,"w":433,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":433,"h":133},
+	"sourceSize": {"w":423,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "hell2.png",
+	"frame": {"x":1,"y":136,"w":358,"h":133},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":358,"h":133},
+	"sourceSize": {"w":423,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "hell3.png",
+	"frame": {"x":136,"y":136,"w":358,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":358,"h":133},
+	"sourceSize": {"w":423,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "hell4.png",
+	"frame": {"x":136,"y":271,"w":358,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":358,"h":133},
+	"sourceSize": {"w":423,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hero.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f09753775a6730de23ad53bc4d5a759c:5f084f33f712ddcfd68678252350e09a:eec64b416d3f54b5cb5181ef71d8f236$"
+}
+}
