@@ -4,12 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>singhAvneet.github.io</title>  
+      <style>
+      body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+      .w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+      .w3-third img:hover{opacity: 1}
+      </style>
+</head>
 
-<style>
-body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
-.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
-.w3-third img:hover{opacity: 1}
-</style>
+
+
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 
 <!-- Sidebar/menu -->
@@ -43,13 +51,11 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
     </div>
-
     <div class="w3-third">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
-    </div>
-    
+    </div>    
     <div class="w3-third">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
@@ -106,7 +112,6 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       </div>
       <p><button class="w3-button w3-light-grey w3-padding-large w3-margin-top w3-margin-bottom">Download Resume</button></p>
       <hr class="w3-opacity">
-
       <h4 class="w3-padding-16">How much I charge</h4>
       <div class="w3-row-padding" style="margin:0 -16px">
         <div class="w3-half w3-margin-bottom">
