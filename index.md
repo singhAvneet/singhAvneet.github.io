@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -39,19 +39,19 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="https://www.w3schools.com/w3images/boy.jpg style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
     </div>
 
     <div class="w3-third">
-      <img src="https://www.w3schools.com/w3images/boy.jpg style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
     </div>
     
     <div class="w3-third">
-      <img src="https://www.w3schools.com/w3images/boy.jpg style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
       <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
     </div>
