@@ -39,18 +39,22 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
-      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
-      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
     </div>
 
     <div class="w3-third">
-      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
-      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
-      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
     </div>
     
-
+    <div class="w3-third">
+      <img src="https://www.w3schools.com/w3images/boy.jpg style="width:100%" onclick="onClick(this)" alt="Quiet day at the beach. Cold, but beautiful">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Waiting for the bus in the desert">
+      <img src="https://www.w3schools.com/w3images/boy.jpg" style="width:100%" onclick="onClick(this)" alt="Nature again.. At its finest!">
+    </div>
   </div>
 
   <!-- Pagination -->
@@ -77,7 +81,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
     <h4><b>About Me</b></h4>
-    <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+    <img src="https://www.w3schools.com/w3images/boy.jpg" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
     <div class="w3-content w3-justify" style="max-width:600px">
       <h4>My Name</h4>
       <p>Some text about me. I love taking photos of PEOPLE. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
@@ -177,7 +181,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
         <h3>BLOG POSTS</h3>
         <ul class="w3-ul">
           <li class="w3-padding-16 w3-hover-black">
-            <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" class="w3-left w3-margin-right" style="width:50px">
+            <img src="https://www.w3schools.com/w3images/boy.jpg" class="w3-left w3-margin-right" style="width:50px">
             <span class="w3-large">Lorem</span><br>
             <span>Sed mattis nunc</span>
           </li>
