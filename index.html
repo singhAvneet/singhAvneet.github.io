@@ -39,15 +39,15 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
-      <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
-      <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
+      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
+      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
     </div>
 
     <div class="w3-third">
-      <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
-      <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
-      <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
+      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="A boy surrounded by beautiful nature">
+      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="What a beautiful scenery this sunset">
+      <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" style="width:100%" onclick="onClick(this)" alt="The Beach. Me. Alone. Beautiful">
     </div>
     
 
@@ -177,7 +177,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
         <h3>BLOG POSTS</h3>
         <ul class="w3-ul">
           <li class="w3-padding-16 w3-hover-black">
-            <img src="https://nation-cdn-resources.jamf.com/cb4f7a247d9e446989a04e094e24ce11" class="w3-left w3-margin-right" style="width:50px">
+            <img src="https://blog.hubspot.com/hubfs/types-of-image-files-extensions.jpg" class="w3-left w3-margin-right" style="width:50px">
             <span class="w3-large">Lorem</span><br>
             <span>Sed mattis nunc</span>
           </li>
